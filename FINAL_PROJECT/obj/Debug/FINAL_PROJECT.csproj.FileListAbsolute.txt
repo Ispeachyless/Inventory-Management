@@ -1,0 +1,205 @@
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form1.resources
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+E:\PROJECT\PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+E:\PROJECT\PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+E:\PROJECT\PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+E:\PROJECT\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+E:\PROJECT\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form1.resources
+E:\PROJECT\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+E:\PROJECT\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+E:\PROJECT\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+E:\PROJECT\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+E:\PROJECT\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+E:\PROJECT\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+E:\PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+E:\PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+E:\PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+E:\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+E:\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+E:\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+E:\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+E:\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+E:\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+E:\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+E:\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+E:\PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+E:\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+E:\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+E:\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+E:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+E:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+E:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+E:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+E:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+E:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+E:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+E:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+E:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\ralph\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FPROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\FPROJECT\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\PC\Downloads\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\PC\Desktop\C# Inventory System\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\PC1\Documents\New folder\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT_-_RKI (1)\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FPROJECT - RKI\FPROJECT\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\PC\Downloads\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\PC\Desktop\C# Inventory System\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Inventory System\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\PC\Desktop\C# Inventory System\FP\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Component1.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.LogIn.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Form2.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.Properties.Resources.resources
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.GenerateResource.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+C:\Users\farrahkaye\OneDrive\Desktop\FP\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
